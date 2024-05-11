@@ -619,6 +619,7 @@ rotate: -15deg;
   width: 200px;
   justify-self: center;
   filter: var(--shadow-img);
+   padding-top: 5rem;
 }
 
 .contact__shrimp,
